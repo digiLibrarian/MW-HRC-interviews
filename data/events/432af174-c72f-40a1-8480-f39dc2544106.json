@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "c764b524-c402-424c-a164-6c55e1bdbd38": {
+      "label": "AV File 1",
+      "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/681.mp3",
+      "duration": 3851
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-07-18T15:44:28.244Z",
+  "created_by": "digiLibrarian",
+  "item_type": "Audio",
+  "label": "Interview with Angela Lansbury, The Filmmakers lecture series, New York University, 4/9/79, Tape 2 of 2",
+  "updated_at": "2025-07-18T15:44:28.244Z",
+  "updated_by": "digiLibrarian",
+  "rights_statement": "http://rightsstatements.org/vocab/InC/1.0/"
+}
