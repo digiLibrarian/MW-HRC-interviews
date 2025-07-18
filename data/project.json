@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "digiLibrarian",
+    "is_private": false,
+    "title": "Mike Wallace interview test",
+    "description": "Building an avannotate project with Mike Wallace interview recordings",
+    "language": "en",
+    "slug": "MW-HRC-interviews",
+    "creator": "digiLibrarian",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-07-18T15:21:06.956Z",
+    "updated_at": "2025-07-18T15:21:06.956Z"
   }
 }
