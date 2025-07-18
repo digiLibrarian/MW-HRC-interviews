@@ -24,11 +24,41 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Speakers",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "environment",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "non-participant",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Angela",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Gussow",
+          "category": "Speakers"
+        },
+        {
+          "tag": "noise",
+          "category": "environment"
+        },
+        {
+          "tag": "person",
+          "category": "non-participant"
+        }
+      ]
     },
     "created_at": "2025-07-18T15:21:06.956Z",
-    "updated_at": "2025-07-18T15:39:55.425Z",
+    "updated_at": "2025-07-18T15:48:59.065Z",
     "generate_pages_site": false
   },
   "annotations": {},
