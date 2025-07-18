@@ -1,1 +1,324 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"digiLibrarian","avatar_url":"https://avatars.githubusercontent.com/u/66038468?v=4","admin":true}],"project":{"github_org":"digiLibrarian","is_private":false,"title":"Mike Wallace interview test","description":"Building an avannotate project with Mike Wallace interview recordings","language":"en","slug":"MW-HRC-interviews","creator":"digiLibrarian","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Speakers","color":"#ADFFD9"},{"category":"environment","color":"#ADFEFF"},{"category":"non-participant","color":"#99E6FF"}],"tags":[{"tag":"Angela","category":"Speakers"},{"tag":"Gussow","category":"Speakers"},{"tag":"noise","category":"environment"},{"tag":"person","category":"non-participant"}]},"created_at":"2025-07-18T15:21:06.956Z","updated_at":"2025-07-18T16:19:37.258Z","generate_pages_site":false},"annotations":{},"events":{},"eventOrder":[],"pages":{"cf8baedc-6710-49c6-a43b-b2f7742b1e85":{"content":[],"created_at":"2025-07-18T15:21:06.971Z","created_by":"digiLibrarian","title":"Mike Wallace interview test","updated_at":"2025-07-18T15:21:06.971Z","updated_by":"digiLibrarian","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["cf8baedc-6710-49c6-a43b-b2f7742b1e85"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "digiLibrarian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66038468?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "digiLibrarian",
+    "is_private": false,
+    "title": "Mike Wallace interview test",
+    "description": "Building an avannotate project with Mike Wallace interview recordings",
+    "language": "en",
+    "slug": "MW-HRC-interviews",
+    "creator": "digiLibrarian",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speakers",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "environment",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "non-participant",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Angela",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Gussow",
+          "category": "Speakers"
+        },
+        {
+          "tag": "noise",
+          "category": "environment"
+        },
+        {
+          "tag": "person",
+          "category": "non-participant"
+        }
+      ]
+    },
+    "created_at": "2025-07-18T15:21:06.956Z",
+    "updated_at": "2025-07-18T16:19:37.258Z",
+    "generate_pages_site": true
+  },
+  "annotations": {
+    "6b30a6aa-e7db-4a6a-824c-04f444cde01f": {
+      "annotations": [
+        {
+          "start_time": 20,
+          "end_time": 50,
+          "annotation": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Beginning"
+                }
+              ]
+            }
+          ],
+          "tags": [
+            {
+              "tag": "noise",
+              "category": "environment"
+            },
+            {
+              "tag": "person",
+              "category": "non-participant"
+            }
+          ],
+          "uuid": "ce739d72-ac0a-428c-b230-637349dcc5fe"
+        },
+        {
+          "start_time": 60,
+          "end_time": 242,
+          "annotation": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Greetings"
+                }
+              ]
+            }
+          ],
+          "tags": [
+            {
+              "tag": "Gussow",
+              "category": "Speakers"
+            },
+            {
+              "tag": "Angela",
+              "category": "Speakers"
+            }
+          ],
+          "uuid": "ad0198b1-537d-4673-9901-b935fe7375b9"
+        },
+        {
+          "start_time": 380,
+          "end_time": 520,
+          "annotation": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "conversation"
+                }
+              ]
+            }
+          ],
+          "tags": [
+            {
+              "tag": "Angela",
+              "category": "Speakers"
+            }
+          ],
+          "uuid": "7f6ad714-fcaa-44cb-b9bb-c90543d1159e"
+        }
+      ],
+      "set": "Default",
+      "event_id": "432af174-c72f-40a1-8480-f39dc2544106",
+      "source_id": "c764b524-c402-424c-a164-6c55e1bdbd38"
+    },
+    "74a5242b-9734-4b71-bfe9-4e6f67eec36e": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "6c311b54-54b9-4841-8971-fe6e36cd39f4",
+      "source_id": "d06a36e6-976a-4a1b-ab34-dda166c8470c"
+    },
+    "f8afee95-8e38-4318-b211-38e968831752": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "f95df958-7ee5-444b-a9ca-8f2425d9d852",
+      "source_id": "7fb470d8-393c-4a1c-8b7c-921d75f67c9e"
+    }
+  },
+  "events": {
+    "432af174-c72f-40a1-8480-f39dc2544106": {
+      "audiovisual_files": {
+        "c764b524-c402-424c-a164-6c55e1bdbd38": {
+          "label": "AV File 1",
+          "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/681.mp3",
+          "duration": 3851
+        }
+      },
+      "auto_generate_web_page": true,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "created_at": "2025-07-18T15:44:28.244Z",
+      "created_by": "digiLibrarian",
+      "item_type": "Audio",
+      "label": "Interview with Angela Lansbury, The Filmmakers lecture series, New York University, 4/9/79, Tape 2 of 2",
+      "updated_at": "2025-07-18T15:44:28.244Z",
+      "updated_by": "digiLibrarian",
+      "rights_statement": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    "6c311b54-54b9-4841-8971-fe6e36cd39f4": {
+      "audiovisual_files": {
+        "d06a36e6-976a-4a1b-ab34-dda166c8470c": {
+          "label": "Interview Angela Lansbury",
+          "is_offline": false,
+          "file_type": "Audio",
+          "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/681.mp3",
+          "duration": 2127
+        }
+      },
+      "auto_generate_web_page": true,
+      "label": "Interview with Angela Lansbury, The Filmmakers lecture series, New York University, 4/9/79, Tape 2 of 2",
+      "created_at": "2025-07-18T15:39:54.838Z",
+      "created_by": "digiLibrarian",
+      "updated_at": "2025-07-18T15:39:54.838Z",
+      "updated_by": "digiLibrarian"
+    },
+    "f95df958-7ee5-444b-a9ca-8f2425d9d852": {
+      "audiovisual_files": {
+        "7fb470d8-393c-4a1c-8b7c-921d75f67c9e": {
+          "label": "AV File 2",
+          "file_url": "https://hrc.contentdm.oclc.org/digital/iiif/p15878coll83/681/full/full/0/default.jpg",
+          "duration": 0
+        }
+      },
+      "auto_generate_web_page": true,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "created_at": "2025-07-18T15:44:28.245Z",
+      "created_by": "digiLibrarian",
+      "item_type": "Audio",
+      "label": "Interview with Angela Lansbury, The Filmmakers lecture series, New York University, 4/9/79, Tape 2 of 2",
+      "updated_at": "2025-07-18T15:44:28.245Z",
+      "updated_by": "digiLibrarian",
+      "rights_statement": "http://rightsstatements.org/vocab/InC/1.0/"
+    }
+  },
+  "eventOrder": [
+    "432af174-c72f-40a1-8480-f39dc2544106",
+    "6c311b54-54b9-4841-8971-fe6e36cd39f4",
+    "f95df958-7ee5-444b-a9ca-8f2425d9d852"
+  ],
+  "pages": {
+    "019df637-be59-4a8f-b612-65f694252cf8": {
+      "content": [],
+      "created_at": "2025-07-18T15:39:55.420Z",
+      "created_by": "digiLibrarian",
+      "title": "Interview with Angela Lansbury, The Filmmakers lecture series, New York University, 4/9/79, Tape 2 of 2",
+      "slug": "interview-with-angela-lansbury-the-filmmaker",
+      "updated_at": "2025-07-18T15:39:55.420Z",
+      "updated_by": "digiLibrarian",
+      "parent": "cf8baedc-6710-49c6-a43b-b2f7742b1e85",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "6c311b54-54b9-4841-8971-fe6e36cd39f4"
+      }
+    },
+    "19d9975f-70fa-4ed9-aa94-1cdcc171e91b": {
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Film interviews from HRC collections online"
+            }
+          ]
+        }
+      ],
+      "title": "Interviews",
+      "autogenerate": {
+        "enabled": false,
+        "type": "custom"
+      },
+      "slug": "interviews",
+      "created_at": "2025-07-18T16:04:54.035Z",
+      "created_by": "digiLibrarian",
+      "updated_at": "2025-07-18T16:18:05.227Z",
+      "updated_by": "digiLibrarian",
+      "parent": "cf8baedc-6710-49c6-a43b-b2f7742b1e85"
+    },
+    "716dfb2f-8a6e-4709-a82c-12ffef139ba6": {
+      "content": [],
+      "created_at": "2025-07-18T15:44:28.401Z",
+      "created_by": "digiLibrarian",
+      "title": "Interview with Angela Lansbury, The Filmmakers lecture series, New York University, 4/9/79, Tape 2 of 2",
+      "slug": "interview-with-angela-lansbury-the-filmmake-2",
+      "updated_at": "2025-07-18T15:44:28.401Z",
+      "updated_by": "digiLibrarian",
+      "parent": "cf8baedc-6710-49c6-a43b-b2f7742b1e85",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "432af174-c72f-40a1-8480-f39dc2544106"
+      }
+    },
+    "cf8baedc-6710-49c6-a43b-b2f7742b1e85": {
+      "content": [],
+      "created_at": "2025-07-18T15:21:06.971Z",
+      "created_by": "digiLibrarian",
+      "title": "Mike Wallace interview test",
+      "updated_at": "2025-07-18T16:19:37.065Z",
+      "updated_by": "digiLibrarian",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    },
+    "d7c54c7f-abe1-40c4-af14-ba09e82bc7cd": {
+      "content": [],
+      "created_at": "2025-07-18T15:44:28.438Z",
+      "created_by": "digiLibrarian",
+      "title": "Interview with Angela Lansbury, The Filmmakers lecture series, New York University, 4/9/79, Tape 2 of 2",
+      "slug": "interview-with-angela-lansbury-the-filmmake--3",
+      "updated_at": "2025-07-18T15:44:28.438Z",
+      "updated_by": "digiLibrarian",
+      "parent": "cf8baedc-6710-49c6-a43b-b2f7742b1e85",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "f95df958-7ee5-444b-a9ca-8f2425d9d852"
+      }
+    }
+  },
+  "pageOrder": [
+    "cf8baedc-6710-49c6-a43b-b2f7742b1e85",
+    "19d9975f-70fa-4ed9-aa94-1cdcc171e91b",
+    "019df637-be59-4a8f-b612-65f694252cf8",
+    "716dfb2f-8a6e-4709-a82c-12ffef139ba6",
+    "d7c54c7f-abe1-40c4-af14-ba09e82bc7cd"
+  ]
+}
