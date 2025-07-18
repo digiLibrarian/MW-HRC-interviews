@@ -11,12 +11,12 @@
   ],
   "title": "Interviews",
   "autogenerate": {
-    "enabled": true,
-    "type": "home"
+    "enabled": false,
+    "type": "custom"
   },
   "slug": "interviews",
   "created_at": "2025-07-18T16:04:54.035Z",
   "created_by": "digiLibrarian",
-  "updated_at": "2025-07-18T16:17:18.439Z",
+  "updated_at": "2025-07-18T16:17:54.996Z",
   "updated_by": "digiLibrarian"
 }
