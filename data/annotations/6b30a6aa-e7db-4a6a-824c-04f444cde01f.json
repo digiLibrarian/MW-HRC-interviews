@@ -1,5 +1,56 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 20,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beginning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "noise",
+          "category": "environment"
+        },
+        {
+          "tag": "person",
+          "category": "non-participant"
+        }
+      ],
+      "uuid": "ce739d72-ac0a-428c-b230-637349dcc5fe"
+    },
+    {
+      "start_time": 60,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Greetings"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gussow",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Angela",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "ad0198b1-537d-4673-9901-b935fe7375b9"
+    }
+  ],
   "set": "Default",
   "event_id": "432af174-c72f-40a1-8480-f39dc2544106",
   "source_id": "c764b524-c402-424c-a164-6c55e1bdbd38"
