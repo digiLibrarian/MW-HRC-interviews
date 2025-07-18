@@ -1,1 +1,85 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"digiLibrarian","avatar_url":"https://avatars.githubusercontent.com/u/66038468?v=4","admin":true}],"project":{"github_org":"digiLibrarian","is_private":false,"title":"Mike Wallace interview test","description":"Building an avannotate project with Mike Wallace interview recordings","language":"en","slug":"MW-HRC-interviews","creator":"digiLibrarian","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Speakers","color":"#ADFFD9"},{"category":"environment","color":"#ADFEFF"},{"category":"non-participant","color":"#99E6FF"}],"tags":[{"tag":"Angela","category":"Speakers"},{"tag":"Gussow","category":"Speakers"},{"tag":"noise","category":"environment"},{"tag":"person","category":"non-participant"}]},"created_at":"2025-07-18T15:21:06.956Z","updated_at":"2025-07-18T16:07:05.928Z","generate_pages_site":false},"annotations":{},"events":{},"eventOrder":[],"pages":{"cf8baedc-6710-49c6-a43b-b2f7742b1e85":{"content":[],"created_at":"2025-07-18T15:21:06.971Z","created_by":"digiLibrarian","title":"Mike Wallace interview test","updated_at":"2025-07-18T15:21:06.971Z","updated_by":"digiLibrarian","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["cf8baedc-6710-49c6-a43b-b2f7742b1e85"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "digiLibrarian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66038468?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "digiLibrarian",
+    "is_private": false,
+    "title": "Mike Wallace interview test",
+    "description": "Building an avannotate project with Mike Wallace interview recordings",
+    "language": "en",
+    "slug": "MW-HRC-interviews",
+    "creator": "digiLibrarian",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speakers",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "environment",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "non-participant",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Angela",
+          "category": "Speakers"
+        },
+        {
+          "tag": "Gussow",
+          "category": "Speakers"
+        },
+        {
+          "tag": "noise",
+          "category": "environment"
+        },
+        {
+          "tag": "person",
+          "category": "non-participant"
+        }
+      ]
+    },
+    "created_at": "2025-07-18T15:21:06.956Z",
+    "updated_at": "2025-07-18T16:15:08.617Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "cf8baedc-6710-49c6-a43b-b2f7742b1e85": {
+      "content": [],
+      "created_at": "2025-07-18T15:21:06.971Z",
+      "created_by": "digiLibrarian",
+      "title": "Mike Wallace interview test",
+      "updated_at": "2025-07-18T15:21:06.971Z",
+      "updated_by": "digiLibrarian",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "cf8baedc-6710-49c6-a43b-b2f7742b1e85"
+  ]
+}
